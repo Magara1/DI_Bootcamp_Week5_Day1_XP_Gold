@@ -1,0 +1,7 @@
+{
+  "name": "FormInputFields",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
